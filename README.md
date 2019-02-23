@@ -1,1 +1,1 @@
-# pygame_helicopter_game
+Follow for more pygame sapmle.
