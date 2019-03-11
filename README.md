@@ -1,1 +1,1 @@
-Follow for more pygame sapmle.
+Basic helicoper game code.
