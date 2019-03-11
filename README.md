@@ -1,1 +1,1 @@
-Basic helicoper game code.
+Helicoper game code.
